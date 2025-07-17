@@ -1,0 +1,1 @@
+The Basic Structure of HTML Document.
